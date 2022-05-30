@@ -12,4 +12,5 @@ Equipe: Júlia Melo Ferreira, Lucas De Souza Garcia, Leandro Müller dos Santos 
 
 #### Paleta de cores utilizada 
  
-![MicrosoftTeams-image (5)](https://user-images.githubusercontent.com/98126417/171058645-4fe14223-370b-45df-b487-7f1b1717f3e7.png)
+![template site ](https://user-images.githubusercontent.com/98126417/171058724-c7e65900-0610-4ee2-bff4-0d05992c79d5.jpeg)
+
