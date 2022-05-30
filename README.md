@@ -7,10 +7,12 @@ Equipe: Júlia Melo Ferreira, Lucas De Souza Garcia, Leandro Müller dos Santos 
 
  ### Primeira Página do site 
 
-![WhatsApp Image 2022-05-30 at 16 15 26](https://user-images.githubusercontent.com/98126417/171058624-ff9bb8d0-84b1-4e20-986e-4f097faeb284.jpeg)
+
+![template site ](https://user-images.githubusercontent.com/98126417/171058802-f0f8924e-e3df-499c-a448-e01718e850f8.jpeg)
 
 
 #### Paleta de cores utilizada 
  
-![template site ](https://user-images.githubusercontent.com/98126417/171058724-c7e65900-0610-4ee2-bff4-0d05992c79d5.jpeg)
+
+![MicrosoftTeams-image (5)](https://user-images.githubusercontent.com/98126417/171058812-d71af2c5-4c45-4851-b2b9-58ccdb2919a9.png)
 
